@@ -1,0 +1,14 @@
+td{
+    padding: 15px;
+}
+table{
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-top: 4%;
+}
+th{
+    border: 1px solid gray ;
+    padding: 10px;
+    border-radius: 5px;
+}

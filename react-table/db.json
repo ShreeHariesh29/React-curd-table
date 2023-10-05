@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "name": "Shree hariesh",
+      "Dept": "CSE",
+      "Year": "4th Year",
+      "Register_no": 210620104048
+
+  },
+  {
+      "name": "Shree hariesh",
+      "Dept": "CSE",
+      "Year": "4th Year",
+      "Register_no": 210620104048
+
+  },
+  {
+      "name": "Shree hariesh",
+      "Dept": "CSE",
+      "Year": "4th Year",
+      "Register_no": 210620104048
+
+  },
+  {
+    "name": "Shree hariesh",
+    "Dept": "CSE",
+    "Year": "4th Year",
+    "Register_no": 210620104048
+
+},
+{
+    "name": "Shree hariesh",
+    "Dept": "CSE",
+    "Year": "4th Year",
+    "Register_no": 210620104048
+
+},
+{
+    "name": "Shree hariesh",
+    "Dept": "CSE",
+    "Year": "4th Year",
+    "Register_no": 210620104048
+
+},
+{
+  "name": "Shree hariesh",
+  "Dept": "CSE",
+  "Year": "4th Year",
+  "Register_no": 210620104048
+
+},
+{
+  "name": "Shree hariesh",
+  "Dept": "CSE",
+  "Year": "4th Year",
+  "Register_no": 210620104048
+
+},
+{
+  "name": "Shree hariesh",
+  "Dept": "CSE",
+  "Year": "4th Year",
+  "Register_no": 210620104048
+
+}
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
